@@ -19,7 +19,7 @@ Education and/or work. Spouse, kids.
 Most important to me is money and I try to achieve/protect that the best I can.  
 So far I have achieved nothing.
 * skills: javascript, css, html, python, java, r, go, haskell, matplab, c++;
-* code example: `<html><header></header><body><h1>hi!</h1></body></html>`;
+* code example: `<html><header></header><body><h1>hi!</h1></body></html>`, `var a=1`
 * experience: nope;
 * ecucation: culinary college;
-* english level: my name is cat.
+* english level: Actually I have no english practice. 0.
