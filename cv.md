@@ -9,7 +9,7 @@
 
 ## Summary
 
-* aim: money;
+* aim: money, job;
 * wishes: happiness and health;
 * what matters, what you want and why: money, money. Money for life: food, housing, cars, girls, close people;
 * self-presentation: 
